@@ -1,0 +1,17 @@
+certifi
+chardet
+falcon
+idna
+pip
+python-mimeparse
+requests
+setuptools
+six
+ujson
+urllib3
+wheel
+gunicorn
+apiai
+redis
+raven
+Facebook_PyBot
